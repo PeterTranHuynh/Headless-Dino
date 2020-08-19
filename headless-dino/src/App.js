@@ -10,9 +10,7 @@ function App() {
     <>  
       <title>Legendary Monster Generator</title> {/* title isn't changing for some reason*/}
       <body>
-        
         Greetings. Welcome to the Headless Dino Legendary Monster Generator.
-        
         <p>
           Press the button to generate your Legendary Monster. Good luck to your adventurers.
         </p>
@@ -28,7 +26,6 @@ function App() {
         </h1>
         <br></br>
       {/* summon button <button>Summon Me</button> */}
-
       </body>
     </>
   );
